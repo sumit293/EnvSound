@@ -2,7 +2,7 @@ EnvSound - Environmental Sound Classification
 📌 Overview
 
 EnvSound is a Deep Learning-based Environmental Sound Classification system that identifies and classifies different environmental sounds such as dog barking, sirens, drilling, engine idling, street music, and more.
-
+// {download the urbansoni8k dataset from  internet}
 The project uses audio feature extraction techniques and neural network models to analyze sound recordings and predict their corresponding classes. It is trained using the UrbanSound8K dataset, a popular benchmark dataset for environmental sound classification.
 
 🎯 Objectives
